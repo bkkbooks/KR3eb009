@@ -1,0 +1,74 @@
+canonical_identifier: bkk:krp/KR3eb009/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eb009/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫驗隨筆
+  identifiers:
+    krp: KR3eb009
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb009.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eb009_000-jc.yaml, hash: 'sha256:54b522f8ac327174cbaf6032a0bc089a477354280cf85a265cb67f04aacc23b9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eb009_000-jc.markers.yaml, hash: 'sha256:af2275ac8a73d6092a6091e09af1ca45b8bafe75295a9859a7583deaf28cb829'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eb009_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 5
+  label: 醫驗隨筆序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb009_jc_000-d3.h1s1
+    span:
+    - front
+    - 5
+    - 388
+  label: 醫驗隨筆序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb009_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 953
+  label: 梁溪沈君事述
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb009_jc_000-d5.h1s1
+    span:
+    - body
+    - 953
+    - 15485
+  label: 沈鮐翁醫驗隨筆
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb009_jc_000-d6.h1s1
+    span:
+    - body
+    - 15485
+    - 16183
+  label: 醫驗隨筆跋
+  type: section
+  level: 1
+hash: sha256:db1936025baa8ff7f77e2d974b06e69deaf5ef3b42a1c26c40d787391710c08b
